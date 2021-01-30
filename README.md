@@ -14,7 +14,9 @@ This analysis answers the question “what sorts of people were more likely to s
 The data has been split into two groups:
 
 training set (train.csv)
+
 test set (test.csv)
+
 The training set was used to build predictions. For the training set, the outcome was provided which is also known as the “ground truth”) for each passenger. The predictions will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.
 
 The test set was used to see how well the predictions performs on unseen data. For the test set, the ground truth for each passenger was not provided. The outcomes have to be predicted. For each passenger in the test set, we will use the insights gotten to predict whether or not they survived the sinking of the Titanic.
