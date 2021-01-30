@@ -67,7 +67,7 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 
 https://www.kaggle.com/c/titanic/data
 
-# Analysis and result
+# Analysis and Result
 
 Titanic.ipnyb - Jupyter notebook for analysis.
 
